@@ -5,7 +5,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-- 👋 Hi, I’m @h2oalphaYT
+- 👋 Hi, I’m @ChanukaDevin
 - 👀 I’m interested in FrontEnd Dev
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
