@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/h2oalphaYT/h2oalphaYT/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Chanuka Devin</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
 
