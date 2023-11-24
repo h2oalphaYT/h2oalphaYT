@@ -20,11 +20,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/chanukadevin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chanukadevin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chanuka (alpha) devin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanuka (alpha) devin" height="30" width="40" /></a>
-<a href="https://fb.com/chanuka devin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chanuka devin" height="30" width="40" /></a>
-<a href="https://instagram.com/chanuka__dev329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanuka__dev329" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alpha streaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alpha streaming" height="30" width="40" /></a>
-<a href="https://discord.gg/AlphaYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlphaYT" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/chanuka-devin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanuka (alpha) devin" height="30" width="40" /></a>
+
+<a href="https://www.facebook.com/chanuka.devin.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chanuka devin" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/chanuka___dev329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanuka__dev329" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/channel/UC64K0R-ZFYaVrD3ZNEWIoMA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alpha streaming" height="30" width="40" /></a>
+
+<a href="https://discord.gg/mKf6b9SKRt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlphaYT" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
