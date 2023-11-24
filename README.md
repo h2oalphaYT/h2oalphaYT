@@ -36,5 +36,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h2oalphayt&" alt="h2oalphayt" /></p>
 
-![snake gif](https://github.com/h2oalphaYT/h2oalphaYT/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/h2oalphaYT/h2oalphaYT/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
