@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h2oalphayt&show_icons=true&locale=en" alt="h2oalphayt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h2oalphayt&" alt="h2oalphayt" /></p>
+
+![snake gif](https://github.com/h2oalphaYT/h2oalphaYT/blob/output/github-contribution-grid-snake.gif)
+
