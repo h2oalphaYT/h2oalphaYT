@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://github.com/h2oalphaYT/h2oalphaYT/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png" alt="Banner">
 </p>
-<h1 align="center">Hi 👋, I'm Chanuka Devin</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chanuka+Devin!;" />
+</h1>
+
 <h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
