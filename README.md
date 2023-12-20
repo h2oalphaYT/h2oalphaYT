@@ -18,12 +18,8 @@
 
 - ⚡ Fun fact **🤔 I'm 01100110 01100101 01100101 01101100 01101001 01101110 01100111 00100000 01101100 01110101 01100011 01101011 01111001 00001010**
 
-<div align="left">
-  <h3 align="left">My Info...</h3>
-  <a href="https://chanuka-devin-info-portfolio.netlify.app">
-    <img src="/test-unscreen.gif" alt="Portfolio Button" width="300px" hight="150px">
-  </a>
-</div>
+<div align="left" style="margin: 0;"><h3 style="display: inline; margin-right: 10px;">My Info...</h3><a href="https://chanuka-devin-info-portfolio.netlify.app"><img src="/test-unscreen.gif" alt="Portfolio Button" width="400px" height="150px"></a></div>
+
 
 <h3 align="left" margin="40">Connect with me:</h3>
 <p align="left">
