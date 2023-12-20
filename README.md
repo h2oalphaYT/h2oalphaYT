@@ -11,9 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h2oalphayt&label=Profile%20views&color=0e75b6&style=flat" alt="h2oalphayt" /> </p>
 
-- <a href="LINK_TO_YOUR_PORTFOLIO">
-    <img src="LINK_TO_ANIMATED_BUTTON_IMAGE" alt="Portfolio Button">
-  </a>
 
 - 🌱 I’m currently learning **.Net,JAVA**
 
@@ -21,6 +18,12 @@
 
 - ⚡ Fun fact **🤔 I'm 01100110 01100101 01100101 01101100 01101001 01101110 01100111 00100000 01101100 01110101 01100011 01101011 01111001 00001010**
 
+<div align="left">
+  <h3 align="left">My Info...</h3>
+  <a href="https://chanuka-devin-info-portfolio.netlify.app">
+    <img src="/test-unscreen.gif" alt="Portfolio Button" width="300px" hight="150px">
+  </a>
+</div>
 
 <h3 align="left" margin="40">Connect with me:</h3>
 <p align="left">
