@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/h2oalphaYT/h2oalphaYT/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png" alt="Banner">
+  <img src="https://github.com/h2oalphaYT/h2oalphaYT/blob/main/banner.jpg" alt="Banner">
 </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chanuka+Devin!;" />
